@@ -1,6 +1,5 @@
-# dm_recommend_std
+# recommend-tf-estimator
 
-![Author](https://img.shields.io/badge/Author-何荣炜/2021.4-blue.svg)
 
 [![TensorFlow Versions](https://img.shields.io/badge/TensorFlow-1.4+/2.0+-blue.svg)](https://pypi.org/project/deepctr)
 
@@ -60,4 +59,3 @@ python train_esmm.py
 ```
 
 
-### 欢迎共建 @anjuke_dm
