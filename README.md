@@ -50,6 +50,9 @@ batch_norm_layer
 
 ## quick start
 ```
+
+注意：数据和特征需要自己定义和添加到代码中
+
 cd examples
 python train_esmm.py
 
